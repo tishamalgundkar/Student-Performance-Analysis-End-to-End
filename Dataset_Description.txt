@@ -1,0 +1,17 @@
+Dataset: Student Performance Dataset
+
+Total Records: 6607
+
+Project Purpose:
+Analyze factors affecting student academic performance using Excel, SQL Server, Python, and Power BI.
+
+Key Columns:
+
+* Gender
+* Attendance
+* Hours_Studied
+* Motivation_Level
+* Parental_Involvement
+* Extracurricular_Activities
+* Exam_Score
+* Performance_Category
