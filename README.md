@@ -67,8 +67,6 @@ README.md
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ![Student Performance Dashboard](PowerBI/Student%20Performance%20Dashboard.png)
 
 Dashboard screenshot is also available in the PowerBI folder.
